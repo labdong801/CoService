@@ -1,0 +1,3 @@
+[submodule "third/libco"]
+	path = third/libco
+	url = https://github.com/Tencent/libco.git
